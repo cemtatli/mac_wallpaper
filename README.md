@@ -1,6 +1,6 @@
 # Myths to Live By
 
-Four myth-inspired wallpapers for a Mac desktop. Ancient stories, short reminders, and purposeful contemporary imagery in a vintage editorial print style.
+Six myth-inspired wallpapers for a Mac desktop. Ancient stories, short reminders, and purposeful contemporary imagery in a vintage editorial print style.
 
 All downloads are **3840 × 2400 PNG (16:10)**. Artwork was AI-generated at approximately 1586 × 992 pixels and upscaled for these exports; these are not natively generated 4K images.
 
@@ -10,6 +10,8 @@ All downloads are **3840 × 2400 PNG (16:10)**. Artwork was AI-generated at appr
 | Icarus | **KNOW YOUR LIMITS.** Balance ambition with the capacity that supports you. | [PNG](wallpapers/icarus-know-your-limits-v2-3840x2400.png) |
 | Theseus & Ariadne | **FIND A WAY.** Keep a thread of strategy through complexity. | [PNG](wallpapers/theseus-find-a-way-v2-3840x2400.png) |
 | Perseus | **CHANGE YOUR PERSPECTIVE.** A drone's view of Medusa reinterprets the myth's indirect viewing strategy. | [PNG](wallpapers/perseus-change-your-perspective-v2-3840x2400.png) |
+| Atalanta | **NOT EVERY PRIZE IS YOURS.** Golden apples and a running watch reveal the time cost of tempting distractions. | [PNG](wallpapers/atalanta-not-every-prize-is-yours-v1-3840x2400.png) |
+| Midas | **DEFINE ENOUGH.** A gold chain and rings contrast with food his golden touch has made impossible to eat. | [PNG](wallpapers/midas-define-enough-v2-3840x2400.png) |
 
 ## Preview
 
@@ -29,6 +31,15 @@ All downloads are **3840 × 2400 PNG (16:10)**. Artwork was AI-generated at appr
 
 ![Perseus studying a drone's view of Medusa on a controller](wallpapers/perseus-change-your-perspective-v2-3840x2400.png)
 
+### Atalanta — NOT EVERY PRIZE IS YOURS.
+
+![Atalanta reaching for a third golden apple while Hippomenes runs ahead](wallpapers/atalanta-not-every-prize-is-yours-v1-3840x2400.png)
+
+### Midas — DEFINE ENOUGH.
+
+![Midas wearing a gold chain and rings, unable to eat his golden bread](wallpapers/midas-define-enough-v2-3840x2400.png)
+
 ## Use on macOS
+
 
 Download a PNG, open System Settings → Wallpaper, and select the downloaded image. Depending on your display's aspect ratio, the fill setting may crop the edges slightly.
